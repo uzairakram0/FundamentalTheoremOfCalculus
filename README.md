@@ -8,4 +8,4 @@ Taking the integral of a derivative ∫df(x)/dx dx = ∫df(x)
     - f(b) - f(a) for definite integrals
 ##### The argument can be stated concisely as:
 ∫df(x)/dx dx = ∫df(x) = Δf(x) = f(x) - f(x<sub>0</sub>) |  f(b) - f(a) : for the closed interval [a, b]  
-Agregating all the small changes df(x) in f(x) should add up to the total or net change Δf(x) for a given interval
+Agregating all the minute changes — df(x) in f(x) should add up to the total or net change Δf(x) for a given interval
